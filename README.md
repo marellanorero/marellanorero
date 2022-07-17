@@ -13,7 +13,7 @@
 <hr/>
 
 <h5>Languages</h5>
-<box>HTML</box> <box>Css</box> <box>Javascript</box>
+<div>HTML</div> <div>Css</div> <div>Javascript</div>
 
 <h5>Frameworks</h5>
 React
