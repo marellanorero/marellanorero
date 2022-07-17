@@ -9,11 +9,14 @@
 - I love transform programming in art
 - I love to spend time with my son, my dogs and my work
 
-<h3>Current Commits</h3>
-<hr/>
-
 <h3>Tech Tools Preference</h3>
 <hr/>
+{
+  "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
+  "issueId": 66,
+  "name": "Laura",
+  "username": "marellanorero"
+}
 
 <h5>Languages</h5>
 HTML, Css, Javascript
