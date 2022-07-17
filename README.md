@@ -1,4 +1,4 @@
-<style type="text/css">
+<style>
  div { background-color: red; }
 </style>
 <h1>Hi there 👋 I'm ...</h1>
