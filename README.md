@@ -1,4 +1,4 @@
-<h1>Hello World! 👋 I'm ...</h1>
+< h1 >Hello World! </ h1> 👋  <p >I'm ... < /p>
 
 <img src="Laura-Arellano.png"/>
 
