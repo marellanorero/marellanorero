@@ -3,14 +3,17 @@
 <img src="Laura-Arellano.png"/>
 
 <h3>About me</h3>
+<hr/>
 
 - I'm from Santiago - Chile
 - I love transform programming in art
 - I love to spend time with my son, my dogs and my work
 
 <h3>Current Commits</h3>
+<hr/>
 
 <h3>Tech Tools Preference</h3>
+<hr/>
 
 <h5>Languages</h5>
 HTML, Css, Javascript
