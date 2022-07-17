@@ -1,6 +1,6 @@
 <h1>Hi there 👋 I'm ...</h1>
 
-<img src="LauraArellano.png"/>
+<img src="Laura-Arellano.png"/>
 
 <h3>About me</h3>
 
