@@ -1,5 +1,8 @@
-import "style.css"
-
+<head>
+        <title>Postcard</title>
+         <link rel="stylesheet" href="style.css">
+</head>
+<body>
 <h1>Hi there 👋 I'm ...</h1>
 
 <img src="Laura-Arellano.png"/>
@@ -28,6 +31,7 @@ Bootstrap, Figma, Adobe XD, Photoshop, Illustrator
 
 <h5>Social Network & Payment method</h5>
 LinkedIN, Paypal, Mercado Pago
+</body>
 
 
 
