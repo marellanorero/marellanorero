@@ -1,3 +1,5 @@
+import "style.css"
+
 <h1>Hi there 👋 I'm ...</h1>
 
 <img src="Laura-Arellano.png"/>
