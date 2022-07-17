@@ -1,6 +1,3 @@
-<style>
- div { background-color: red; }
-</style>
 <h1>Hi there 👋 I'm ...</h1>
 
 <img src="Laura-Arellano.png"/>
@@ -19,16 +16,16 @@
 <div >HTML</div> <div>Css</div> <div>Javascript</div>
 
 <h5>Frameworks</h5>
-React
+<div>React</div>
 
 <h5>Programing Tools</h5>
-Github, Node.js, Insomnia, NPN, VSCode
+<div>Github</div> <div>Node.js</div> <div>Insomnia</div> <div>NPN</div> <div>VSCode</div>
 
 <h5>CSS & Design Tools</h5>
-Bootstrap, Figma, Adobe XD, Photoshop, Illustrator
+<div>Bootstrap</div> <div>Figma</div> <div>Adobe XD</div> <div>Photoshop</div> <div>Illustrator</div>
 
 <h5>Social Network & Payment method</h5>
-LinkedIN, Paypal, Mercado Pago
+<div>LinkedIN</div> <div>Paypal</div> <div>Mercado Pago</div>
 
 
 
