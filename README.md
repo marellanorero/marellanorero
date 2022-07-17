@@ -1,8 +1,6 @@
-<head>
-        <title>Postcard</title>
-         <link rel="stylesheet" href="style.css">
-</head>
-<body>
+<style type="text/css">
+ div { background-color: red; }
+</style>
 <h1>Hi there 👋 I'm ...</h1>
 
 <img src="Laura-Arellano.png"/>
@@ -18,7 +16,7 @@
 <hr/>
 
 <h5>Languages</h5>
-<div>HTML</div> <div>Css</div> <div>Javascript</div>
+<div >HTML</div> <div>Css</div> <div>Javascript</div>
 
 <h5>Frameworks</h5>
 React
@@ -31,7 +29,7 @@ Bootstrap, Figma, Adobe XD, Photoshop, Illustrator
 
 <h5>Social Network & Payment method</h5>
 LinkedIN, Paypal, Mercado Pago
-</body>
+
 
 
 
