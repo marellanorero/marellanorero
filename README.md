@@ -3,31 +3,32 @@
 
 <img src="Laura-Arellano.png"/>
 
+<a href="https://www.linkedin.com/in/m-laura-arellano/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Laura%20Arellano-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="mailto:marellanonorero@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marellanonorero@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
 <h3>About me</h3>
-<hr/>
+
 
 - I'm from Santiago - Chile
 - I love transform programming in art
 - I love to spend time with my son, my dogs and my work
 
 <h3>Tech Tools Preference</h3>
-<hr/>
+
 
 <h5>Languages</h5>
-<div >HTML</div> <div>Css</div> <div>Javascript</div>
-
+🌐 HTML | Css | Javascript
+<hr />
 <h5>Frameworks</h5>
-<div>React</div>
-
+💻 React
+<hr />
 <h5>Programing Tools</h5>
-<div>Github</div> <div>Node.js</div> <div>Insomnia</div> <div>NPN</div> <div>VSCode</div>
-
-<h5>CSS & Design Tools</h5>
-<div>Bootstrap</div> <div>Figma</div> <div>Adobe XD</div> <div>Photoshop</div> <div>Illustrator</div>
-
-<h5>Social Network</h5>
-<div><a href="https://www.linkedin.com/in/m-laura-arellano/">LinkedIN</a></div>
-
+🔧 Github | Node.js | Insomnia | NPN | VSCode
+<hr />
+<h5>CSS & Design Tools </h5>
+🖥 Bootstrap | Figma | Adobe XD | Photoshop | Illustrator
+<hr />
 
 
 
