@@ -1,6 +1,6 @@
 Hello World!  👋 I'm ...
 
-<img src="Laura-Arellano.png"></img>
+<!--<img src="Laura-Arellano.png"></img>-->
 <img src="gif.gif"></img>
 
 
