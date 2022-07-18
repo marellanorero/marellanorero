@@ -1,6 +1,6 @@
 Hello World!  👋 I'm ...
 
-<img src="laura-arellano.gif"/>
+<video src="gif.mp4" width="100%"></video>
 
 <a href="https://www.linkedin.com/in/m-laura-arellano/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Laura%20Arellano-blue?style=flat-square&logo=linkedin"></a>
 
