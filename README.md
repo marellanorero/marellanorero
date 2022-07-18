@@ -26,7 +26,7 @@
 <div>Bootstrap</div> <div>Figma</div> <div>Adobe XD</div> <div>Photoshop</div> <div>Illustrator</div>
 
 <h5>Social Network & Payment method</h5>
-<div><a href="https://www.linkedin.com/in/m-laura-arellano/">LinkedIN</a></div> <div>Paypal</div> <div>Mercado Pago</div>
+<div><a href="https://www.linkedin.com/in/m-laura-arellano/">LinkedIN</a></div>
 
 
 
