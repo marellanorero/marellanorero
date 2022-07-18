@@ -1,7 +1,8 @@
 Hello World!  👋 I'm ...
 
+<img src="Laura-Arellano.png"></img>
 <video autoplay controls src="gif.mp4"></video>
-<img src="Laura-Aellano.png"></img>
+
 
 <a href="https://www.linkedin.com/in/m-laura-arellano/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Laura%20Arellano-blue?style=flat-square&logo=linkedin"></a>
 
