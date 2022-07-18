@@ -19,7 +19,7 @@ Hello World!  👋 I'm ...
 
 
 <h5>Languages</h5>
-🌐 HTML | Css | Javascript
+🌐 HTML | CSS | Javascript
 <hr />
 <h5>Frameworks</h5>
 💻 React
