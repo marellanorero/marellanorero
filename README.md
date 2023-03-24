@@ -1,31 +1,33 @@
-Hello World!  👋 I'm ...
+Hello World!  👋 I'm Laura
 
-<!--<img src="Laura-Arellano.png"></img>-->
-<a href="https://picasion.com/" title="gif maker"><img src="https://i.picasion.com/pic92/ef94b20e63398cc8102ac49f3715453f.gif" border="0" alt="gif maker"></a>
-
-
-<a href="https://www.linkedin.com/in/m-laura-arellano/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Laura%20Arellano-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mlarellanorero/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Laura%20Arellano-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:marellanonorero@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marellanonorero@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 <h3>About me</h3>
 
-
 - I'm from Santiago - Chile
 - I love transform programming in art
 - I love to spend time with my son, my dogs and my work
+- I really enjoy learning programming and I have finding my passion in the Software Architecture 
 
 <h3>Tech Tools Preference</h3>
 
 
 <h5>Languages</h5>
-🌐 HTML | CSS | Javascript
+🌐 HTML | CSS | Javascript | Typescript
 <hr />
 <h5>Frameworks</h5>
-💻 React
+💻 React | NextJS
+<hr />
+<h5>Backend</h5>
+✨ Python | NodeJS | ExpressJS 
+<hr />
+<h5> Databases </h5>
+⚡ SQL | PostgresSQL | MongoDB | Relational Databases | NoSQL
 <hr />
 <h5>Programing Tools</h5>
-🔧 Github | Node.js | Insomnia | NPN | VSCode
+🔧 Github | Node.js | Postman | NPN | VSCode | Webstorm
 <hr />
 <h5>CSS & Design Tools </h5>
 🖥 Bootstrap | Figma | Adobe XD | Photoshop | Illustrator
