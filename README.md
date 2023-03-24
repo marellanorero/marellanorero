@@ -26,6 +26,9 @@ Hello World!  👋 I'm Laura
 <h5> Databases </h5>
 ⚡ SQL | PostgresSQL | MongoDB | Relational Databases | NoSQL
 <hr />
+<h5> Cloud Computing </h5>
+💬 AWS
+<hr />
 <h5>Programing Tools</h5>
 🔧 Github | Node.js | Postman | NPN | VSCode | Webstorm
 <hr />
