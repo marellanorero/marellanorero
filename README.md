@@ -21,7 +21,7 @@ Hello World!  👋 I'm Laura
 💻 React | NextJS
 <hr />
 <h5>Backend</h5>
-✨ Python | NodeJS | ExpressJS 
+✨ Python | NodeJS | ExpressJS | MongoDB | Wordpress
 <hr />
 <h5> Databases </h5>
 ⚡ SQL | PostgresSQL | MongoDB | Relational Databases | NoSQL
