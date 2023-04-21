@@ -37,8 +37,8 @@ Hello World!  👋 I'm Laura
 <hr />
 
 - 🔭 I’m currently working on Software about Logistic and Administration for small business who needs cellars
-- 🌱 I’m currently learning to review Javascript and Typescript with SOLID principles and Clean Code, also I'm studying AWS and Relational Databases Architecture
-- 👯 I’m looking to collaborate on La Interna, Which is Software for students in medical practice, it helps to organize them 
+- 🌱 I’m currently learning to review Javascript and Typescript with SOLID principles and Clean Code, also I'm learning Testing and Hexagonal Architecture
+- 👯 I am also making web pages with nextjs and hosting them on wordpress to help small entrepreneurs and increase my knowledge 
 - 💬 Ask me about all you want, but I don't guarantee if my answer like you
 - 📫 How to reach me: telegram: marellanorero or my email marellanonorero@gmail.com
 
