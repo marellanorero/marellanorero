@@ -18,7 +18,7 @@ Hello World!  👋 I'm Laura
 🌐 HTML | CSS | Javascript | Typescript
 <hr />
 <h5>Frameworks</h5>
-💻 React | NextJS | Remix
+💻 React | NextJS 
 <hr />
 <h5>Backend</h5>
 ✨ Python | NodeJS | ExpressJS | MongoDB | Wordpress | .NET
