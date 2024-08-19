@@ -15,7 +15,7 @@ Hello World!  👋 I'm Laura
 
 
 <h5>Languages</h5>
-🌐 HTML | CSS | Javascript | Typescript
+🌐 HTML | CSS | SASS | Javascript | Typescript | PHP
 <hr />
 <h5>Frameworks</h5>
 💻 React | NextJS | .Net
@@ -35,11 +35,14 @@ Hello World!  👋 I'm Laura
 <h5>CSS & Design Tools </h5>
 🖥 CSS | CSSGrid | Bootstrap | Figma | Adobe XD | Photoshop | Illustrator
 <hr />
+<h5>CMS</h5>
+Wordpress
+<hr/>
 
 - 🔭 Actualemente trabajo como Full Stack Dev en un proyecto que se encarga de ayudar en la lógistica y aministración de Stock en bodegas para pequeñas empresas.
-- 🌱 Estudio para profundizar en SQL, Dapper, C# y .Net paralelo a React y Testing
+- 🌱 Decidí hacer un repaso desde la bases, profundizando y armando un portafolio más sólido
 - 🌐 También aprendo sobre la internacionalización del software y el multilenguaje usando i18Next y react-18Next
-- 👯 También sigo profundizando en Wordpress, ya que es una herramienta con la que comencé en este mundo y me gusta mucho, estoy aprendiendo a hacer las webs totalmente personalizadas con NextJS y alojadas en Wodpress 
+- 👯 También sigo profundizando en Wordpress, ya que es una herramienta con la que comencé en este mundo y me gusta mucho, estoy aprendiendo a realizar plugins personalizados.
 - 💬 Pregúntame acerca de lo que quieras
 - 📫 Puedes contactarme en: telegram: marellanorero o en mi email marellanonorero@gmail.com
 
