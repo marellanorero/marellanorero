@@ -42,7 +42,7 @@ Wordpress
 - 🔭 Actualemente trabajo como Full Stack Dev en un proyecto que se encarga de ayudar en la lógistica y aministración de Stock en bodegas para pequeñas empresas.
 - 🌱 Decidí hacer un repaso desde la bases, profundizando y armando un portafolio más sólido
 - 🌐 También aprendo sobre la internacionalización del software y el multilenguaje usando i18Next y react-18Next
-- 👯 También sigo profundizando en Wordpress, ya que es una herramienta con la que comencé en este mundo y me gusta mucho, estoy aprendiendo a realizar plugins personalizados.
+- 👯 También sigo profundizando en Wordpress, ya que es una herramienta con la que comencé en este mundo y me gusta mucho, estoy aprendiendo a realizar temas y plugins personalizados.
 - 💬 Pregúntame acerca de lo que quieras
 - 📫 Puedes contactarme en: telegram: marellanorero o en mi email marellanonorero@gmail.com
 
